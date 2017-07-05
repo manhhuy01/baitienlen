@@ -1,0 +1,163 @@
+
+.aces-clubs {
+    background-image: url("images/1C.png");
+}
+.two-clubs {
+    background-image: url("images/2C.png");
+}
+.three-clubs {
+    background-image: url("images/3C.png");
+}
+.four-clubs {
+    background-image: url("images/4C.png");
+}
+.five-clubs {
+    background-image: url("images/5C.png");
+}
+.six-clubs {
+    background-image: url("images/6C.png");
+}
+.seven-clubs {
+    background-image: url("images/7C.png");
+}
+.eight-clubs {
+    background-image: url("images/8C.png");
+}
+.nine-clubs {
+    background-image: url("images/9C.png");
+}
+.ten-clubs {
+    background-image: url("images/10C.png");
+}
+.j-clubs {
+    background-image: url("images/JC.png");
+}
+.q-clubs {
+    background-image: url("images/QC.png");
+}
+.k-clubs {
+    background-image: url("images/KC.png");
+}
+
+
+.aces-diamonds {
+    background-image: url("images/1D.png");
+}
+.two-diamonds {
+    background-image: url("images/2D.png");
+}
+.three-diamonds {
+    background-image: url("images/3D.png");
+}
+.four-diamonds {
+    background-image: url("images/4D.png");
+}
+.five-diamonds {
+    background-image: url("images/5D.png");
+}
+.six-diamonds {
+    background-image: url("images/6D.png");
+}
+.seven-diamonds {
+    background-image: url("images/7D.png");
+}
+.eight-diamonds {
+    background-image: url("images/8D.png");
+}
+.nine-diamonds {
+    background-image: url("images/9D.png");
+}
+.ten-diamonds {
+    background-image: url("images/10D.png");
+}
+.j-diamonds {
+    background-image: url("images/JD.png");
+}
+.q-diamonds {
+    background-image: url("images/QD.png");
+}
+.k-diamonds {
+    background-image: url("images/KD.png");
+}
+
+
+.aces-hearts {
+    background-image: url("images/1H.png");
+}
+.two-hearts {
+    background-image: url("images/2H.png");
+}
+.three-hearts {
+    background-image: url("images/3H.png");
+}
+.four-hearts {
+    background-image: url("images/4H.png");
+}
+.five-hearts {
+    background-image: url("images/5H.png");
+}
+.six-hearts {
+    background-image: url("images/6H.png");
+}
+.seven-hearts {
+    background-image: url("images/7H.png");
+}
+.eight-hearts {
+    background-image: url("images/8H.png");
+}
+.nine-hearts {
+    background-image: url("images/9H.png");
+}
+.ten-hearts {
+    background-image: url("images/10H.png");
+}
+.j-hearts {
+    background-image: url("images/JH.png");
+}
+.q-hearts {
+    background-image: url("images/QH.png");
+}
+.k-hearts {
+    background-image: url("images/KH.png");
+}
+
+
+.aces-spade {
+    background-image: url("images/1S.png");
+}
+.two-spade {
+    background-image: url("images/2S.png");
+}
+.three-spade {
+    background-image: url("images/3S.png");
+}
+.four-spade {
+    background-image: url("images/4S.png");
+}
+.five-spade {
+    background-image: url("images/5S.png");
+}
+.six-spade {
+    background-image: url("images/6S.png");
+}
+.seven-spade {
+    background-image: url("images/7S.png");
+}
+.eight-spade {
+    background-image: url("images/8S.png");
+}
+.nine-spade {
+    background-image: url("images/9S.png");
+}
+.ten-spade {
+    background-image: url("images/10S.png");
+}
+.j-spade {
+    background-image: url("images/JS.png");
+}
+.q-spade {
+    background-image: url("images/QS.png");
+}
+.k-spade {
+    background-image: url("images/KS.png");
+}
