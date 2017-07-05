@@ -1,3 +1,10 @@
 body{
      background: gray;
 }
+.card {
+    height: 106px;
+    width: 80px;
+}
+.1-ch {
+    background-image: url("images/1-ch.png");
+}
